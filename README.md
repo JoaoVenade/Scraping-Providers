@@ -6,3 +6,5 @@ The goal is to scrape the following telecommunication providers for information 
   NOS (https://www.nos.pt/)
   Vodafone (https://www.vodafone.pt/)
   NOWO (https://www.nowo.pt/)
+
+Using Selenium in Python.
